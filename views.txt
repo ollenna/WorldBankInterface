@@ -1,0 +1,5 @@
+Pie Chart
+Line Chart
+Bar Chart
+Scatter Chart
+Report

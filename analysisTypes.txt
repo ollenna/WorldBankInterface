@@ -1,0 +1,8 @@
+CO2 Emissions vs Energy Use vs PM2.5 Air Pollution
+PM2.5 Air Pollution vs Forest Area
+Ratio of CO2 Emissions and GDP
+Average Forest Area
+Average Government Expenditure on Education (GDP)
+Hospital Beds and Current Health Expenditure
+Current Health Expenditure vs Mortality Rate Infant
+Ratio of Government Expenditure on Education vs Current Health Expenditure
